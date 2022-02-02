@@ -1,0 +1,24 @@
+img {
+  border-radius: 50%;
+  border: 5px solid orangered;
+  margin: 20px;
+}
+div {
+  display: flex;
+}
+h1 {
+  color: rgb(211, 43, 211);
+  font-size: 60px;
+  text-align: center;
+  font-weight: 500;
+}
+h2 {
+  color: saddlebrown;
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+}
+p {
+  color: rgb(4, 73, 103);
+  font-size: 30px;
+}
